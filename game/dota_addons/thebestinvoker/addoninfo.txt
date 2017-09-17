@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"forest_solo"
+	{
+		"MaxPlayers"		"10"
+	}
+}
